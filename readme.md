@@ -29,7 +29,9 @@
   <li> - Baixe os arquivos deste diretório do gitHub </li>
   <li> - Instale o Xampp </li>
   <li> - Colocar a pasta cadWeb no diretório C: xampp > htdocs </li>
-  <li> - Executar na porta padrão do xampp </li>
+  <li> - Executar o Xampp </li>
+  <li> - Ativar os servidores Apache e MySQL presentes no app Xampp </li>
+  <li> - Executar todo app na porta padrão do xampp </li>
   <li> - Rodar o script ( localizado em script.txt ) MySQL pelo localhost/phpmyadmin </li>
   <li> - Acessar o projeto por:  http://localhost/cadWeb </li>
   <li> - Executar na porta padrão do xampp </li>
