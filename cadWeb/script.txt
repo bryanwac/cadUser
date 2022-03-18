@@ -1,0 +1,11 @@
+
+create database cad_user;
+
+use cad_user;
+
+create table usuarios(
+    id_usuario int AUTO_INCREMENT PRIMARY KEY,
+    nome varchar(30),
+    email varchar(80),
+    senha varchar(32)
+);
