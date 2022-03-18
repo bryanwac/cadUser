@@ -22,3 +22,18 @@
     </ul>
  </div>
 
+
+<h2> Como executar o projeto? </h2>
+
+<ul>
+  <li> - Baixe os arquivos deste diretório do gitHub </li>
+  <li> - Instale o Xampp </li>
+  <li> - Colocar a pasta cadWeb no diretório C: xampp > htdocs </li>
+  <li> - Executar na porta padrão do xampp </li>
+  <li> - Rodar o script ( localizado em script.txt ) MySQL pelo localhost/phpmyadmin </li>
+  <li> - Acessar o projeto por:  http://localhost/cadWeb </li>
+  <li> - Executar na porta padrão do xampp </li>
+  <li> --- Você será direcionado para a página de login do sistema; </li>
+  <li> --- Cadastre um usuario para ter acesso ao sistema de cadastro de clientes; </li>
+  <li> --- Caso executado corretamente, seu usuário aparecerá no painel do phpmyadmin. </li>
+</ul>
