@@ -39,3 +39,47 @@
   <li> --- Cadastre um usuario para ter acesso ao sistema de cadastro de clientes; </li>
   <li> --- Caso executado corretamente, seu usuário aparecerá no painel do phpmyadmin. </li>
 </ul>
+
+////////////////////////////////////////////////////////////////////////////////////////////////
+<h1> Web registration system w/login system for inner client registration </h1>
+
+<div> 
+  <ul>
+  <li> - BackEnd in PHP, HTML pages using Bootstrap CSS;</li>
+  <li> - SQL connection using PDO;</li>
+  <li> - Ajax requisitions;</li>
+  <li> - Input fields verification/authentication.</li>
+ </div>
+ 
+ 
+ </div>
+  <h2>In this project I developed the following skills:</h2>
+    <ul>
+        <li> - PHP </li>
+        <li> - HTML5 </li>
+        <li> - BootStrap CSS </li>
+        <li> - AJAX </li>
+        <li> - JavaScript </li>
+        <li> - JQuery </li>
+    </ul>
+ </div>
+
+
+<h2> How to execute it? </h2>
+
+<ul>
+  <li> - Download the .zip directory or clone int your pc </li>
+  <li> - Install o Xampp </li>
+  <li> - Move cadWeb rep. to dir. C: xampp > htdocs </li>
+  <li> - Execute o Xampp </li>
+  <li> - Turn on Apache e MySQL servers presents on Xampp app </li>
+  <li> - Execute this app on xampp lococalhost standard port </li>
+  <li> - Run the sql script ( localizado em script.txt ) using localhost/phpmyadmin </li>
+  <li> - Acess this project on:  http://localhost/cadWeb </li>
+  <li> - Run this on xampp standard port: </li>
+  <li> --- You will be redirect for a login screen; </li>
+  <li> --- Make an user registration to get acess to client registration area; </li>
+  <li> --- If everything worked properly, your Admin user will be registrated on phpmyadmin table </li>
+  <li> --- Feel free to contact me for any execution problems </li>
+
+</ul>
